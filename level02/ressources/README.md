@@ -12,3 +12,11 @@ Hex to ASCII : https://www.rapidtables.com/convert/number/hex-to-ascii.html
 ```
 ft_wandrNDRelL0L
 ```
+
+```
+level02@SnowCrash:~$ su flag02
+Password: 
+Don't forget to launch getflag !
+flag02@SnowCrash:~$ getflag
+Check flag.Here is your token : kooda2puivaav1idi4f57q8iq
+```
