@@ -1,0 +1,1 @@
+scp -r -P 4242 level14@10.13.200.28:/bin/getflag .
