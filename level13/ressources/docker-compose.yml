@@ -1,0 +1,7 @@
+version: "3.8"
+services:
+  debian:
+    build: ./debian
+    container_name: debian
+    volumes:
+      - "./:/snow"
