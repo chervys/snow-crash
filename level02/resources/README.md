@@ -1,5 +1,5 @@
 ```
-➜  snow-crash git:(main) ✗ cd level02/ressources 
+➜  snow-crash git:(main) ✗ cd level02/resources 
 ➜  ressources git:(main) ✗ scp -P 4242 level02@10.13.200.28:/home/user/level02/level02.pcap .
 ```
 

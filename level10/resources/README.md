@@ -1,8 +1,8 @@
 ```
-scp -r -P 4242 ./level10/ressources  level10@10.13.200.28:/tmp
+scp -r -P 4242 ./level10/resources  level10@10.13.200.28:/tmp
 nc localhost 6969 -l
-bash /tmp/ressources/script_level10.sh
-bash /tmp/ressources/script_link.sh
+bash /tmp/resources/script_level10.sh
+bash /tmp/resources/script_link.sh
 ```
 
 ```
